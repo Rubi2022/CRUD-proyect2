@@ -1,0 +1,48 @@
+@import url('https://fonts.googleapis.com/css2?family=Cedarville+Cursive&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Cedarville+Cursive&family=The+Girl+Next+Door&display=swap');
+body{
+    font-family: 'Cedarville Cursive', cursive;
+    margin: 0%;
+    padding: 0%;
+    background-color: rgba(109, 219, 247, 0.548);
+}
+.first{
+    background-color: rgba(169, 111, 223, 0.884);
+    font-size: 150%;
+    color: azure;
+    text-align: center;
+}
+.text_entra{
+    text-align: center;
+    background-color: aliceblue;
+}
+.fechas{
+    margin-left:36%;
+    border-radius: 0%;
+    border-color: rgb(241, 148, 210);
+}
+.buton{
+    font-family: 'The Girl Next Door', cursive;
+    background-color: rgb(255, 197, 235);
+    border-radius: 40%;
+}
+.text_plan{
+    border-color: rgb(241, 148, 210);
+    margin-left: 36%;
+    height: 42px;
+    width:230px ;
+}
+.buton2{
+    font-family: 'The Girl Next Door', cursive;
+    background-color: rgb(255, 197, 235);
+    border-radius: 43%;
+}
+.buton3{
+    font-family: 'The Girl Next Door', cursive;
+    background-color: rgb(255, 197, 235);
+    border-radius: 40%;
+}
+.imagen_plan{
+
+}
+
