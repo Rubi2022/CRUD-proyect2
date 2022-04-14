@@ -1,4 +1,6 @@
 console.log('prueba de funcionamiento')
+const inputCal = document.getElementById('calendar')
+console.log(inputCal)
 
 const inputVal = document.getElementById('input-text')
 const botAgregar = document.querySelector('#agregar')
@@ -25,6 +27,7 @@ function renderizaElem(){
         <li>
         ${item}
         <button class="buton3" onclick="borrarElemento(${i})">Hecho</button>
+        <button class="buton3" onclick="Edittarea(${i})">Cambiar tarea</button>
         </li>
         `
     })
@@ -43,5 +46,6 @@ function getItems(){
     arr = pendientes.split(',')
     renderizaElem()
 }
+
 
 getItems()

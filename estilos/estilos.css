@@ -42,7 +42,25 @@ body{
     background-color: rgb(255, 197, 235);
     border-radius: 40%;
 }
-.imagen_plan{
 
+
+.final-pag{
+    background-color: aliceblue;
+    padding-top: 5%;
+    margin-top: 17%;
 }
-
+.text-des{
+    
+    text-align: center;
+    font-size: 89px;
+    color: rgba(169, 111, 223, 0.884);
+     
+}
+.plan-img{
+    padding-left: 70%;
+    height: 45px;
+}
+.img-dow{
+    padding-left: 70%;
+    padding-top: 13%;
+}
